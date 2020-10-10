@@ -118,7 +118,7 @@ def printClassificationReport(model, twenty_test):
 
 def experiment2():
     """
-    The best classifier with all parameters said to their default values.
+    The best classifier with all parameters set to their default values.
     Edit/copy for easy experimentation
     """
     twenty_train = fetch_20newsgroups(
